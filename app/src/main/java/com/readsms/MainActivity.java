@@ -14,6 +14,8 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
+    // MainActivity
+
     private static final int MY_PERMISSIONS_REQUEST_SMS = 1;
     private static final String TAG = "READ_SMS";
     FragmentManager fragmentManager;
